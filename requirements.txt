@@ -27,3 +27,6 @@ scikit-learn
 
 # Downloading models from HF
 torch
+
+# downloading embedding models
+sentence-transformers
