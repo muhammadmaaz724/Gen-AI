@@ -30,3 +30,6 @@ torch
 
 # downloading embedding models
 sentence-transformers
+
+# building UI
+streamlit
