@@ -33,3 +33,6 @@ sentence-transformers
 
 # building UI
 streamlit
+
+# type safety
+pydantic
