@@ -36,3 +36,6 @@ streamlit
 
 # type safety
 pydantic
+
+# pdf loader
+pypdf
