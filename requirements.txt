@@ -39,3 +39,9 @@ pydantic
 
 # pdf loader
 pypdf
+
+# Retrievers
+chromadb
+faiss-cpu
+tiktoken
+wikipedia
