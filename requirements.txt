@@ -45,3 +45,10 @@ chromadb
 faiss-cpu
 tiktoken
 wikipedia
+
+# Experimental 
+langchain_experimental
+
+# vector store 
+pinecone
+langchain-pinecone
